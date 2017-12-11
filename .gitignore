@@ -73,3 +73,8 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 /SmartValidatorV3_manager.iml
+.idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
